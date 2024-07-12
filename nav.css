@@ -46,7 +46,7 @@ nav > ul > li > a:hover{
     color: #fff;
 }
 nav > ul > li > a{
-    color: #262626;
+    color: #ffffff;
     text-decoration: none;
     text-transform: uppercase; /*for capitalisation of letters */
     line-height: 80px;
@@ -61,7 +61,7 @@ nav.black > ul > li > a{
 section.sec1{
     width: 100%;
     height: 100vh;
-    background: url(https://mrwallpaper.com/images/hd/travel-4k-clouds-mountains-7wmoz9la6tfkmvtr.jpg);
+    background: url(https://i.pinimg.com/originals/eb/19/a4/eb19a4aaa1ef7bff73e0331f3dff1376.jpg);
     background-size: cover;
 }
 section.content{
