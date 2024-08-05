@@ -8,7 +8,7 @@
         }
     })
 /*menu button onclick function*/         $(document).ready(function(){
-            $('.menu h4').click(function(){
+            $('.menu i').click(function(){
                 $("nav ul").toggleClass("active")
         })
         })

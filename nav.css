@@ -87,7 +87,7 @@ section.content{
         float: left;
         height: 50px;  
     }
-    .responsive-bar .menu h4{
+    .responsive-bar .menu i{
         float: right;
         color: #fff;
         margin: 0;
@@ -144,4 +144,39 @@ section.content{
     .active{
         display: block;
     }
+}
+.container {
+    
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-box {
+    background-color: rgba(222, 218, 218, 0.1); /* White with 80% opacity */
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    width: 900px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin-top: 0;
+}
+
+button {
+    background-color:#5F6F65;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #708871;
 }
