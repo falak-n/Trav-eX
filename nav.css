@@ -243,13 +243,14 @@ button:hover {
 
     width: 100%;
     height: 100%;
-    top: 0;
+
     right: 100%;
     transition: all 0.5s ease-in-out;
 }
 .main-content .box:hover .img-text{
     top: 0;
     right: 0;
+<<<<<<< HEAD
 }
 .third{
     margin-top: 50px;
@@ -331,3 +332,5 @@ button:hover {
     color: #28a745;
     font-weight: bold;
 }
+=======
+>>>>>>> a041f480e810c85caef5a91b927a172e2af4800f
